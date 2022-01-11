@@ -1,0 +1,14 @@
+C:\Users\Thomas\Documents\repos\ipipedia\bin\Debug\netcoreapp3.1\IpiPedia.exe
+C:\Users\Thomas\Documents\repos\ipipedia\bin\Debug\netcoreapp3.1\IpiPedia.deps.json
+C:\Users\Thomas\Documents\repos\ipipedia\bin\Debug\netcoreapp3.1\IpiPedia.runtimeconfig.json
+C:\Users\Thomas\Documents\repos\ipipedia\bin\Debug\netcoreapp3.1\IpiPedia.runtimeconfig.dev.json
+C:\Users\Thomas\Documents\repos\ipipedia\bin\Debug\netcoreapp3.1\IpiPedia.dll
+C:\Users\Thomas\Documents\repos\ipipedia\bin\Debug\netcoreapp3.1\IpiPedia.pdb
+C:\Users\Thomas\Documents\repos\ipipedia\obj\Debug\netcoreapp3.1\IpiPedia.csproj.AssemblyReference.cache
+C:\Users\Thomas\Documents\repos\ipipedia\obj\Debug\netcoreapp3.1\IpiPedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thomas\Documents\repos\ipipedia\obj\Debug\netcoreapp3.1\IpiPedia.AssemblyInfoInputs.cache
+C:\Users\Thomas\Documents\repos\ipipedia\obj\Debug\netcoreapp3.1\IpiPedia.AssemblyInfo.cs
+C:\Users\Thomas\Documents\repos\ipipedia\obj\Debug\netcoreapp3.1\IpiPedia.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Documents\repos\ipipedia\obj\Debug\netcoreapp3.1\IpiPedia.dll
+C:\Users\Thomas\Documents\repos\ipipedia\obj\Debug\netcoreapp3.1\IpiPedia.pdb
+C:\Users\Thomas\Documents\repos\ipipedia\obj\Debug\netcoreapp3.1\IpiPedia.genruntimeconfig.cache
