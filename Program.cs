@@ -1,7 +1,6 @@
 ﻿using IpiPedia.bdd.collection;
 using System;
 using System.Collections.Generic;
-using System.Globalization;
 using System.IO;
 using System.Linq;
 
@@ -86,7 +85,7 @@ namespace IpiPedia
             Console.WriteLine("AFFICHER : Afficher toutes les personne dans la base de donnée");
             Console.WriteLine("INFORMATION : Affiche les infos d'une personne");
             Console.WriteLine("NAISSANCE : Affiche les personnes nait avant la date inscrite");
-            Console.WriteLine("CLEF : Fait une recherche des personnes par mot clef");
+            Console.WriteLine("CLEF : Fait une recherche des personnes par mots clef (ex : Bretagne, Dessinateur)");
             Console.WriteLine("CLS : Efface la console");
             Console.WriteLine("HELP : Affiche l'aide");
             Console.WriteLine("QUIT : Quitte le programme");
