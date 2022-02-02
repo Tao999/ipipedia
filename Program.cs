@@ -11,10 +11,11 @@ namespace IpiPedia
         {
             LinkedList<Personnage> list =
                 Personnage.GetDataFromFile($"{Directory.GetCurrentDirectory()}/../../../bdd/base.txt");
-            foreach (var item in list)
-            {
-                Console.WriteLine("{0} : {1} - {2}", item.name, item.birthDate.ToString("d"), item.deathDate.ToString("d"));
-            }
+            //foreach (var item in list)
+            //{
+            //    Console.WriteLine("{0} : {1} - {2}", item.name, item.birthDate.ToString("d"), item.deathDate.ToString("d"));
+            //}
+            Personnage.ToXML(list);
         }
     }
 }

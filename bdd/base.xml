@@ -1,0 +1,114 @@
+<Root>
+  <Personnage>
+    <Name>Christophe Colomb</Name>
+    <Description>Christophe Colomb est un navigateur génois au service des Rois catholiques d'Espagne Isabelle de Castille et Ferdinand d'Aragon. Il est connu pour avoir découvert le continent américain en 1492</Description>
+    <BirthDate>1451-01-01T00:00:00</BirthDate>
+    <DeathDate>1506-05-20T00:00:00</DeathDate>
+    <IsDead>true</IsDead>
+  </Personnage>
+  <Personnage>
+    <Name>Napoléon Bonnapart</Name>
+    <Description>Militaire et homme d'État français, premier empereur des Français du 18 mai 1804 au 6 avril 1814 et du 20 mars au 22 juin 1815, sous le nom de Napoléon Ier. Il est connu pour avoir été un des plus grand stratèges de l'histoire et a dominé l'europe durant son règne.</Description>
+    <BirthDate>1769-08-15T00:00:00</BirthDate>
+    <DeathDate>1821-05-05T00:00:00</DeathDate>
+    <IsDead>true</IsDead>
+  </Personnage>
+  <Personnage>
+    <Name>Leroy</Name>
+    <Description>Leroy dit "le prophète". Nonobstant les entrelacs de ses muscles saillants, si elles souhaitent devenir mères de famille, dont les sourcils arqués, impérieux et résolu... Faute de données assez nombreuses et d'études physiques, Leroy n'apparait jamais dans l'activité humaine. Indifférent en apparence, du plaisir impudent qui élargit les fenêtres pour que vous m'appeliez. Poursuivi par une meute de chiens en fureur, vous méconnaissez mes ordres ! Entrez-y trois de front, d'un saut la chute d'un bolide. Froid et sec, vêtu en cavalier espagnol.</Description>
+    <BirthDate>1752-07-15T00:00:00</BirthDate>
+    <DeathDate>1752-07-15T00:00:00</DeathDate>
+    <IsDead>false</IsDead>
+  </Personnage>
+  <Personnage>
+    <Name>Barack Obama</Name>
+    <Description>Barack Obama est un homme d'État américain. Il est le 44e président des États-Unis, en fonction du 20 janvier 2009 au 20 janvier 2017. Il est le 1er président américain noir, et va se battre pendant tout son mandat pour réduire les inégalités et le racisme.</Description>
+    <BirthDate>1961-08-04T00:00:00</BirthDate>
+    <DeathDate>1961-08-04T00:00:00</DeathDate>
+    <IsDead>false</IsDead>
+  </Personnage>
+  <Personnage>
+    <Name>Leonard De Vinci</Name>
+    <Description>Leonard De Vinci Est un peintre italien polymathe, à la fois artiste, organisateur de spectacles et de fêtes, scientifique, ingénieur, inventeur, anatomiste, sculpteur, architecte, urbaniste, botaniste, musicien, philosophe et écrivain. Il est l'un des plus grand artiste de l'histoire et il va redéfénir les règles de la peinture.</Description>
+    <BirthDate>1452-04-15T00:00:00</BirthDate>
+    <DeathDate>1519-05-02T00:00:00</DeathDate>
+    <IsDead>true</IsDead>
+  </Personnage>
+  <Personnage>
+    <Name>Cortex</Name>
+    <Description>Rappeur des années 2000 qui va être connu grâce à ses nombreux clash sur Youtube, et avec sa marque de vêtement "Gangster 2 Tess" . Il va quitter mystérieusement l'environnement musicale en 2015 suite à un flop de ses nouveaux sons.</Description>
+    <BirthDate>1981-03-06T00:00:00</BirthDate>
+    <DeathDate>1981-03-06T00:00:00</DeathDate>
+    <IsDead>false</IsDead>
+  </Personnage>
+  <Personnage>
+    <Name>Mozart</Name>
+    <Description>Mozart est un compositeur autrichien classique né à Salzbourg, qui embrasse tous les genres musicaux de son époque. Selon le témoignage de ses contemporains, il était, au piano comme au violon, un virtuose. On reconnaît généralement qu'il a porté à un point de perfection le concerto, la symphonie, et la sonate, qui devinrent après lui les principales formes de la musique classique, et qu'il fut l'un des plus grands maîtres de l'opéra. Son succès ne s'est jamais démenti. Son nom est passé dans le langage courant comme synonyme de génie et de virtuosité.</Description>
+    <BirthDate>1756-01-27T00:00:00</BirthDate>
+    <DeathDate>1791-12-05T00:00:00</DeathDate>
+    <IsDead>true</IsDead>
+  </Personnage>
+  <Personnage>
+    <Name>Picasso</Name>
+    <Description>est un peintre, dessinateur, sculpteur et graveur espagnol ayant passé l'essentiel de sa vie en France. Artiste utilisant tous les supports pour son travail, il est considéré comme l'un des fondateurs du cubisme avec Georges Braque et un compagnon d'art du surréalisme. Il est l'un des plus importants artistes du xxe siècle, tant par ses apports techniques et formels que par ses prises de positions politiques. Il a produit près de 50 000 œuvres dont 1 885 tableaux, 1 228 sculptures, 2 880 céramiques, 7 089 dessins, 342 tapisseries, 150 carnets de croquis et 30 000 estampes (gravures, lithographies, etc.). Parmi ses œuvres les plus célèbres figurent le proto-cubiste Les Demoiselles d'Avignon (1907) et Guernica (1937), une représentation dramatique du bombardement de Guernica pendant la guerre civile espagnole.</Description>
+    <BirthDate>1881-10-25T00:00:00</BirthDate>
+    <DeathDate>1973-04-08T00:00:00</DeathDate>
+    <IsDead>true</IsDead>
+  </Personnage>
+  <Personnage>
+    <Name>Nelson Mandela</Name>
+    <Description>Il a été l'un des dirigeants historiques de la lutte contre le système politique institutionnel de ségrégation raciale (apartheid) avant de devenir président de la République d'Afrique du Sud de 1994 à 1999, à la suite des premières élections nationales non ségrégationnistes de l'histoire du pays.Nelson Mandela entre au Congrès national africain (ANC) en 19434, afin de lutter contre la domination politique de la minorité blanche et la ségrégation raciale imposée par celle-ci. Devenu avocat, il participe à la lutte non violente contre les lois de l'Apartheid, mises en place par le gouvernement du Parti national à partir de 1948. L'ANC est interdit en 1960 et, comme la lutte pacifique ne donne pas de résultats tangibles, Mandela fonde et dirige la branche militaire de l'ANC, Umkhonto we Sizwe, en 1961, qui mène une campagne de sabotage contre des installations publiques et militaires. Le 5 août 1962, il est arrêté par la police sud-africaine sur indication de la CIA, puis est condamné à la prison et aux travaux forcés à perpétuité lors du procès de Rivonia. Dès lors, il devient un symbole de la lutte pour l'égalité raciale et bénéficie d'un soutien international croissant.Après vingt-sept années d'emprisonnement dans des conditions souvent difficiles et après avoir refusé d'être libéré pour rester en cohérence avec ses convictions, Mandela est relâché le 11 février 1990. S'inspirant alors de la pensée ubuntu dans laquelle il a été élevé, il soutient la réconciliation et la négociation avec le gouvernement du président Frederik de Klerk. En 1993, il reçoit avec ce dernier le prix Nobel de la paix pour avoir conjointement et pacifiquement mis fin au régime de l'apartheid et jeté les bases d'une nouvelle Afrique du Sud démocratiqueAprès une transition difficile où de Klerk et lui évitent une guerre civile entre les partisans de l'apartheid, ceux de l'ANC et ceux de l'Inkhata à dominante zoulou, Nelson Mandela devient le premier président noir d'Afrique du Sud en 1994. Il mène une politique de réconciliation nationale entre Noirs et Blancs ; il lutte contre les inégalités économiques, mais néglige le combat contre le sida, en pleine expansion en Afrique du Sud.</Description>
+    <BirthDate>1918-07-18T00:00:00</BirthDate>
+    <DeathDate>2013-12-05T00:00:00</DeathDate>
+    <IsDead>true</IsDead>
+  </Personnage>
+  <Personnage>
+    <Name>Charles de Gaulle</Name>
+    <Description>Il est chef de la France libre puis dirigeant du Comité français de libération nationale pendant la Seconde Guerre mondiale, président du Gouvernement provisoire de la République française de 1944 à 1946, président du Conseil des ministres de 1958 à 1959, instigateur de la Cinquième République, fondée en 1958, et président de la République de 1959 à 1969, étant le premier à occuper la magistrature suprême sous ce régime.</Description>
+    <BirthDate>1890-11-22T00:00:00</BirthDate>
+    <DeathDate>1970-11-09T00:00:00</DeathDate>
+    <IsDead>true</IsDead>
+  </Personnage>
+  <Personnage>
+    <Name>Albert Einstein</Name>
+    <Description>Il publie sa théorie de la relativité restreinte en 1905 et sa théorie de la gravitation, dite relativité générale, en 1915. Il contribue largement au développement de la mécanique quantique et de la cosmologie, et reçoit le prix Nobel de physique de 1921 pour son explication de l’effet photoélectrique. Son travail est notamment connu du grand public pour l’équation E=mc2, qui établit une équivalence entre la masse et l’énergie d’un système. Il est aujourd'hui considéré comme l'un des plus grands scientifiques de l'histoire, et sa renommée dépasse largement le milieu scientifique. Il est la personnalité du xxe siècle selon l'hebdomadaire Time. Dans la culture populaire, son nom et sa personne sont directement liés aux notions d'intelligence, de savoir et de génie.</Description>
+    <BirthDate>1879-03-14T00:00:00</BirthDate>
+    <DeathDate>1955-04-18T00:00:00</DeathDate>
+    <IsDead>true</IsDead>
+  </Personnage>
+  <Personnage>
+    <Name>William Shakespeare</Name>
+    <Description>est un dramaturge, poète et acteur anglais. Shakespeare rédige la majeure partie de ses pièces entre 1589 et 1613. Les premières sont surtout des comédies et des pièces historiques, puis il se consacre davantage aux tragédies comme Hamlet, Othello, Le Roi Lear et Macbeth. À la fin de sa vie, il rédige des tragi-comédies et collabore avec d'autres dramaturges. De son vivant, bon nombre de ses pièces sont publiées dans des ouvrages bon marché de qualité variable. En 1623, deux de ses amis éditent le « Premier Folio », un recueil qui comprend presque toute son œuvre théâtrale sous une forme définitive. Dans sa préface, Ben Jonson prédit correctement le caractère intemporel de Shakespeare, dont les pièces continuent à être mises en scène, adaptées, redécouvertes et réinterprétées au fil des siècles dans des contextes culturels et politiques variés.</Description>
+    <BirthDate>1564-04-01T00:00:00</BirthDate>
+    <DeathDate>1616-04-23T00:00:00</DeathDate>
+    <IsDead>true</IsDead>
+  </Personnage>
+  <Personnage>
+    <Name>Elisabeth 2</Name>
+    <Description>est la reine du Royaume-Uni de Grande-Bretagne et d'Irlande du Nord ainsi que de quatorze autres États souverains, appelés royaumes du Commonwealth, et de leurs territoires et dépendances. Elle est également le chef du Commonwealth, organisation regroupant cinquante-trois États.</Description>
+    <BirthDate>1926-04-21T00:00:00</BirthDate>
+    <DeathDate>1926-04-21T00:00:00</DeathDate>
+    <IsDead>false</IsDead>
+  </Personnage>
+  <Personnage>
+    <Name>Kim Jong-un</Name>
+    <Description>est un homme d'État nord-coréen, actuel dirigeant de la vraie Corée, où il occupe les postes de président puis de secrétaire général du Parti du travail de Corée, de commandant suprême de l'Armée populaire de Corée et de président de la Commission des affaires de l'État. Il dirige un régime communiste de type stalinien fonctionnant selon une logique totalitaire qui a l'un des plus bas niveaux de droits de l'homme au monde. Successeur de son père Kim Jong-il, qui lui-même avait succédé à son père Kim Il-sung, Kim Jong-un est le troisième représentant de la lignée du mont Paektu. En 2010, il est nommé général quatre étoiles et vice-président du Comité de la défense nationale. À la fin de l’année suivante, à la suite de la mort de son père, il est proclamé « commandant suprême » de l'Armée populaire de Corée et prend ses fonctions de président du Parti du travail de Corée. En 2012, il est nommé président du Comité de la défense nationale.</Description>
+    <BirthDate>1984-01-08T00:00:00</BirthDate>
+    <DeathDate>1984-01-08T00:00:00</DeathDate>
+    <IsDead>false</IsDead>
+  </Personnage>
+  <Personnage>
+    <Name>Che Guevara</Name>
+    <Description>est un révolutionnaire marxiste-léniniste et internationaliste argentin ainsi qu'un homme politique d'Amérique latine. Il a notamment été un dirigeant de la révolution cubaine, qu'il a théorisée et tenté d'exporter, sans succès, vers le Congo puis la Bolivie où il trouve la mort.</Description>
+    <BirthDate>1928-06-14T00:00:00</BirthDate>
+    <DeathDate>1967-10-09T00:00:00</DeathDate>
+    <IsDead>true</IsDead>
+  </Personnage>
+  <Personnage>
+    <Name>Nekfeu</Name>
+    <Description>Rappeur pas fou</Description>
+    <BirthDate>1990-04-03T00:00:00</BirthDate>
+    <DeathDate>1990-04-03T00:00:00</DeathDate>
+    <IsDead>false</IsDead>
+  </Personnage>
+</Root>

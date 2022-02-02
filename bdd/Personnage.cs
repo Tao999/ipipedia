@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
+using System.Xml.Linq;
+using System.Linq;
+using System.IO;
 
 namespace IpiPedia.bdd.collection
 {
@@ -63,6 +65,22 @@ namespace IpiPedia.bdd.collection
                 list.AddLast(p);
             }
             return list;
+        }
+
+        static public void ToXML(LinkedList<Personnage> l)
+        {
+            var resxml = new XElement("Root",
+                from perso in l
+                select new XElement("Personnage",
+                    new XElement("Name", perso.name),
+                    new XElement("Description", perso.description),
+                    new XElement("BirthDate", perso.birthDate),
+                    new XElement("DeathDate", perso.deathDate),
+                    new XElement("IsDead", perso.isDead)
+                    )
+                );
+
+            File.WriteAllText("base.xml", resxml.ToString());
         }
 
         public override string ToString()
