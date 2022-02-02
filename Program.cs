@@ -109,10 +109,8 @@ namespace IpiPedia
 
         public void afficherInformation(string name)
         {
-            TextInfo textInfo = new CultureInfo("en-US", false).TextInfo;
-            name = textInfo.ToTitleCase(name.ToLower());
             var request = from personnage in list
-                          where personnage.name == name
+                          where personnage.name.Equals(name, StringComparison.InvariantCultureIgnoreCase)
                           select personnage.description;
             if (request.Count() == 0)
             {
@@ -147,22 +145,34 @@ namespace IpiPedia
             }
         }
 
-        public void keySearch(string clef)
+        public void keySearch(string clefs)
         {
-            var request = from personnage in list
-                          where personnage.description.Contains(clef)
-                          orderby personnage.name ascending
-                          select personnage.name;
+            List<String> answers = new List<String>();
 
-            if (request.Count() == 0)
+            var tok = clefs.Split(",");
+            foreach (var item in tok)
+            {
+                item.Trim();
+                var request = from personnage in list
+                              where personnage.description.Contains(item, StringComparison.InvariantCultureIgnoreCase)
+                              orderby personnage.name ascending
+                              select personnage.name;
+
+                answers = answers.Concat(request).ToList();
+            }
+
+            answers = answers.Distinct().ToList();
+            answers.Sort();
+
+            if (answers.Count() == 0)
             {
                 Console.WriteLine("Aucune personne n'a été trouvée !");
             }
             else
             {
-                Console.WriteLine("Voici les personnes associés au mot " + clef + " :");
+                Console.WriteLine("Voici les personnes associés aux mots \"" + clefs + "\" :");
 
-                foreach (var item in request)
+                foreach (var item in answers)
                 {
                     Console.WriteLine(item);
                 }
