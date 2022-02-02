@@ -46,7 +46,6 @@ namespace IpiPedia.bdd.collection
                 //desc
                 string desc = tok[1].Trim();
                 //birth date
-                string[] dateTok = tok[2].Split('-');
                 DateTime birthDate = DateTime.Parse(tok[2]);
                 
                 //death date

@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MTmSkJwIfGCCDyeWH5BM4asc+IYzWKkHjt+6kjGcmTrdoN7AanrRdXnew0sQIY+1OWrs9HUSJJGJavJbK5viqQ==",
+  "dgSpecHash": "WEa6JNFpdX7yQ49fiWgKY9xZuYRKPSjsWxPbUQ+Dq5M/jIuAm4e2Ti1y74vD7L74jZbyexzwvNFFTe5wjxGqpw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Paul\\Source\\Repos\\ipipedia\\IpiPedia.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Paul\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\Documents\\repo\\ipipedia\\IpiPedia.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

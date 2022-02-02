@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Paul\\Source\\Repos\\ipipedia\\IpiPedia.csproj": {}
+    "D:\\Documents\\repo\\ipipedia\\IpiPedia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Paul\\Source\\Repos\\ipipedia\\IpiPedia.csproj": {
+    "D:\\Documents\\repo\\ipipedia\\IpiPedia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Paul\\Source\\Repos\\ipipedia\\IpiPedia.csproj",
+        "projectUniqueName": "D:\\Documents\\repo\\ipipedia\\IpiPedia.csproj",
         "projectName": "IpiPedia",
-        "projectPath": "C:\\Users\\Paul\\Source\\Repos\\ipipedia\\IpiPedia.csproj",
-        "packagesPath": "C:\\Users\\Paul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Paul\\Source\\Repos\\ipipedia\\obj\\",
+        "projectPath": "D:\\Documents\\repo\\ipipedia\\IpiPedia.csproj",
+        "packagesPath": "C:\\Users\\Tao\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\repo\\ipipedia\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Paul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,18 +53,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.13, 3.1.13]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
