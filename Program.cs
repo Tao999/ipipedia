@@ -151,9 +151,9 @@ namespace IpiPedia
             var tok = clefs.Split(",");
             foreach (var item in tok)
             {
-                item.Trim();
+                string shKey = item.Trim();
                 var request = from personnage in list
-                              where personnage.description.Contains(item, StringComparison.InvariantCultureIgnoreCase)
+                              where personnage.description.Contains(shKey, StringComparison.InvariantCultureIgnoreCase)
                               orderby personnage.name ascending
                               select personnage.name;
 
