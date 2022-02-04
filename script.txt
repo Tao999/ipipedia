@@ -1,0 +1,20 @@
+echo >>> afficher
+afficher
+echo -------
+echo >>> birth 1/1/1850
+birth 1/1/1850
+echo -------
+echo >>> info cortex
+info cortex
+echo -------
+echo >>> keysh homme
+keysh homme
+echo -------
+echo >>> keysh politique
+keysh politique
+echo -------
+echo >>> inter keysh homme & keysh politique
+inter keysh homme & keysh politique
+echo -------
+echo >>> union keysh homme | keysh politique
+union keysh homme | keysh politique

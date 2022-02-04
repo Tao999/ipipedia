@@ -28,6 +28,7 @@ namespace IpiPedia
             commandList.Add(KeySearch.name, new KeySearch());
             commandList.Add(Union.name, new Union());
             commandList.Add(Inter.name, new Inter());
+            commandList.Add(Script.name, new Script());
 
         }
 
@@ -70,7 +71,7 @@ namespace IpiPedia
             }
         }
 
-        private void PrintAnswer(Answer a)
+        public static void PrintAnswer(Answer a)
         {
             switch (a.errorCode)
             {

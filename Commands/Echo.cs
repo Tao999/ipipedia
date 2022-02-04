@@ -19,7 +19,7 @@ namespace IpiPedia.Commands
             args = args.Trim();
             Answer answer = new Answer(Answer.ERROR.NO_ERROR, args);
             if (args.Equals(""))
-                answer.errorCode = Answer.ERROR.NO_ARG;
+                answer.message = " ";
 
             return answer;
         }

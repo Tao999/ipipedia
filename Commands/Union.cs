@@ -52,12 +52,9 @@ namespace IpiPedia.Commands
                     }
 
                     List<string> ms = subAnswer.message.Split(Command.cmdSeparators).ToList();
-                    var query = from message in ms
-                                where !messages.Contains(message)
-                                orderby message ascending
-                                select message.Trim();
 
-                    messages = query.ToList();
+                    messages = messages.Union(ms).ToList();
+
                     
                 }
                 else
