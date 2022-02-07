@@ -12,7 +12,7 @@ namespace IpiPedia.Commands
 
         public KeySearch()
         {
-            description = "keysh <arg1>, <arg2>, ... : affiche les noms des personnes en relation avec les arguments donnés";
+            description = "keysh <arg1>, <arg2>, ... : les personnages en relation avec les deux arguments saisis";
         }
 
         public override Answer Proc(string args)

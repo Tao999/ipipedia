@@ -39,3 +39,15 @@ C:\Users\Paul\Source\Repos\ipipedia\obj\Debug\netcoreapp3.1\IpiPedia.csproj.Core
 C:\Users\Paul\Source\Repos\ipipedia\obj\Debug\netcoreapp3.1\IpiPedia.dll
 C:\Users\Paul\Source\Repos\ipipedia\obj\Debug\netcoreapp3.1\IpiPedia.pdb
 C:\Users\Paul\Source\Repos\ipipedia\obj\Debug\netcoreapp3.1\IpiPedia.genruntimeconfig.cache
+C:\Users\Paul\Source\Repos\ipipedia2\bin\Debug\netcoreapp3.1\IpiPedia.exe
+C:\Users\Paul\Source\Repos\ipipedia2\bin\Debug\netcoreapp3.1\IpiPedia.deps.json
+C:\Users\Paul\Source\Repos\ipipedia2\bin\Debug\netcoreapp3.1\IpiPedia.runtimeconfig.json
+C:\Users\Paul\Source\Repos\ipipedia2\bin\Debug\netcoreapp3.1\IpiPedia.runtimeconfig.dev.json
+C:\Users\Paul\Source\Repos\ipipedia2\bin\Debug\netcoreapp3.1\IpiPedia.dll
+C:\Users\Paul\Source\Repos\ipipedia2\bin\Debug\netcoreapp3.1\IpiPedia.pdb
+C:\Users\Paul\Source\Repos\ipipedia2\obj\Debug\netcoreapp3.1\IpiPedia.AssemblyInfoInputs.cache
+C:\Users\Paul\Source\Repos\ipipedia2\obj\Debug\netcoreapp3.1\IpiPedia.AssemblyInfo.cs
+C:\Users\Paul\Source\Repos\ipipedia2\obj\Debug\netcoreapp3.1\IpiPedia.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Source\Repos\ipipedia2\obj\Debug\netcoreapp3.1\IpiPedia.dll
+C:\Users\Paul\Source\Repos\ipipedia2\obj\Debug\netcoreapp3.1\IpiPedia.pdb
+C:\Users\Paul\Source\Repos\ipipedia2\obj\Debug\netcoreapp3.1\IpiPedia.genruntimeconfig.cache

@@ -16,6 +16,10 @@ namespace IpiPedia
 
         public Shell()
         {
+            Console.WriteLine("*****************************************IPIPEDIA * ****************************************");
+            Console.WriteLine("Bienvenue sur Ipipedia, l'encyclopedie qui va mettre a mal la plus grande encyclopedie d'internet nommée Wikipedia");
+            Console.WriteLine("Vous pouvez récupérer des informations sur différents personnages historiques");
+            Console.WriteLine("Voici une liste de commande à utiliser : ");
             vars = new Dictionary<string, Answer>();
             commandList = new Dictionary<string, Command>();
 

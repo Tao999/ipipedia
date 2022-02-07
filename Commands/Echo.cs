@@ -11,7 +11,7 @@ namespace IpiPedia.Commands
 
         public Echo()
         {
-            description = "echo <text> : affiche <text>";
+            description = "echo <text> : affiche le texte saisi";
         }
 
         public override Answer Proc(string args)

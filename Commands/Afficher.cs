@@ -12,7 +12,7 @@ namespace IpiPedia.Commands
 
         public Afficher()
         {
-            description = "afficher : Affiche tous les noms de la bdd";
+            description = "afficher : Affiche les plus grands personnages de l'histoires";
         }
 
         public override Answer Proc(string args)

@@ -12,7 +12,7 @@ namespace IpiPedia.Commands
         
         public Info()
         {
-            description = "info <name> : affiche la description de <name>";
+            description = "info <name> : affiche la description du personage saisi";
         }
 
         public override Answer Proc(string args)

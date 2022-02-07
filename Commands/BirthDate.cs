@@ -12,7 +12,7 @@ namespace IpiPedia.Commands
         
         public BirthDate()
         {
-            description = "birth <date> : Affiche toutes les personnes nées avant <date>";
+            description = "birth <date> : Affiche toutes les personnes nées avant la date saisi";
         }
 
         public override Answer Proc(string args)
